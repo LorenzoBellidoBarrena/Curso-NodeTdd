@@ -1,0 +1,15 @@
+{
+  "name": "test-tdd",
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
